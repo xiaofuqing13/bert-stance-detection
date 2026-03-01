@@ -81,6 +81,10 @@ python test.py
 
 ![训练曲线](images/training_logs.png)
 
+### 混淆矩阵
+
+![混淆矩阵](images/confusion_matrix.png)
+
 ## 适用场景
 
 - 假新闻与标题党检测
