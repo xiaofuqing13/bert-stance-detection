@@ -101,6 +101,6 @@ python test.py
 - Pandas（数据处理）
 - Matplotlib（训练可视化）
 
-## License
+## 许可证
 
-MIT License
+MIT 许可证
