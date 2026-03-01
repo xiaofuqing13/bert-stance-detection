@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)
 
-
 假新闻和标题党泛滥的时代，一篇新闻的标题和正文之间的关系（支持、反对、讨论、无关）是判断信息可信度的重要线索。本项目用 BERT 预训练模型对新闻标题与正文的立场关系进行自动分类——输入一对"标题+正文"，模型判断正文对标题观点的态度。
 
 ## 痛点与目的
@@ -75,18 +74,6 @@ python test.py
 | 评估策略 | 每个 epoch |
 
 ## 实验结果
-
-### 立场标签分布
-
-![立场分布](images/stance_distribution.png)
-
-### 训练过程曲线
-
-![训练曲线](images/training_logs.png)
-
-### 混淆矩阵
-
-![混淆矩阵](images/confusion_matrix.png)
 
 ## 适用场景
 
