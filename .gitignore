@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+env/
+
+# PyTorch / HuggingFace
+final_stance_model/
+results/
+logs/
+
+# Data
+*.csv
+
+# Images
+*.png
+
+# Docs
+*.docx
+
+# macOS
+.DS_Store
+._*
+
+# IDE
+.idea/
+.vscode/
