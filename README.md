@@ -71,6 +71,16 @@ python test.py
 | 权重衰减 | 0.01 |
 | 评估策略 | 每个 epoch |
 
+## 实验结果
+
+### 立场标签分布
+
+![立场分布](images/stance_distribution.png)
+
+### 训练过程曲线
+
+![训练曲线](images/training_logs.png)
+
 ## 适用场景
 
 - 假新闻与标题党检测
